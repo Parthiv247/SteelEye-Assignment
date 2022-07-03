@@ -1,6 +1,4 @@
 """
-@author: Abhilash Raj
-
 Module containing all the helper functions for the process
 """
 import os  # For file paths
